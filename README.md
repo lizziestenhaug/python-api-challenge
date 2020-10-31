@@ -1,12 +1,9 @@
 # Python API Homework - What's the Weather Like?
+ANALYSIS
 
-## Background
-
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
-
-Now, we know what you may be thinking: _"Duh. It gets hotter..."_
-
-But, if pressed, how would you **prove** it?
+1) As we move closer to the equator, temperature gets warmer.
+2) As you move North of the equator into positive latitude, temperatures drops. 
+3) Latitude has no relationship with cloudiness and wind speed.
 
 ![Equator](Images/equatorsign.png)
 
